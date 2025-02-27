@@ -1,3 +1,5 @@
+Hello, World!
+
 # Study Notes
 
 Hifumi's study notes, built with [Nólëbase](https://github.com/nolebase/nolebase).
